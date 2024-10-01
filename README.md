@@ -22,6 +22,4 @@ An add-on for the Studying tool "Anki". This allows the user to open a Searchabl
 ## Support
 I have nothing to plug here. Just keep working hard and making progress!  
 
-
-
-<img src="https://github.com/user-attachments/assets/d19c0b80-c5b3-4180-bdca-cb645edcd1ad" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/d19c0b80-c5b3-4180-bdca-cb645edcd1ad" height="30" />
