@@ -20,5 +20,5 @@ An add-on for the Studying tool "Anki". This allows the user to open a Searchabl
 ⦁ Change the values in window.setMinimumSize(1200, 900) from Line 25 to a more desirable value. 
 
 ## Support
-I have nothing to plug here. Just keep working hard and making progress!
+I have nothing to plug here. Just keep working hard and making progress!  
 ![Uploading anya-forger-pointing.png…]()
