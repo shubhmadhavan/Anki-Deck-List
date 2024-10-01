@@ -1,7 +1,7 @@
 # Anki-Deck-List
 An add-on for the Studying tool "Anki". This allows the user to open a Searchable Deck List from either the Decks Menu or the Browser Menu.
 
-![Uploading DeckListInfo.gif…]()
+![DeckListInfo](https://github.com/user-attachments/assets/5ce8ca44-03fe-4594-9dbe-867e75ed7f53)
 
 ## Info
 ⦁ This add-on allows you to open a <strong>Searchable & Selectable Deck List</strong> from either the <strong>Decks Menu or the Browser Menu</strong> by triggering a shortcut.  
@@ -21,4 +21,6 @@ An add-on for the Studying tool "Anki". This allows the user to open a Searchabl
 
 ## Support
 I have nothing to plug here. Just keep working hard and making progress!  
-![Uploading anya-forger-pointing.png…]()
+
+![anya-forger-pointing](https://github.com/user-attachments/assets/d19c0b80-c5b3-4180-bdca-cb645edcd1ad)
+
