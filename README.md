@@ -19,7 +19,7 @@ An add-on for the Studying tool "Anki". This allows the user to open a Searchabl
 ⦁ This can be change by clicking on "View Files" below, opening the "__init__.py" file and modifying Line 25.  
 ⦁ Change the values in window.setMinimumSize(1200, 900) from Line 25 to a more desirable value. 
 
-## Support
+## ?
 I have nothing to plug here. Just keep working hard and making progress!  
 
 <img src="https://github.com/user-attachments/assets/d19c0b80-c5b3-4180-bdca-cb645edcd1ad" height="80" />
