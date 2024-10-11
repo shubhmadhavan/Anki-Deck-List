@@ -1,8 +1,6 @@
 # Anki-Deck-List
 An add-on for the Studying tool "Anki". This allows the user to open a Searchable Deck List from either the Decks Menu or the Browser Menu.
 
-![DeckListInfo](https://github.com/user-attachments/assets/5ce8ca44-03fe-4594-9dbe-867e75ed7f53)
-
 ## Info
 ⦁ This add-on allows you to open a <strong>Searchable & Selectable Deck List</strong> from either the <strong>Decks Menu or the Browser Menu</strong> by triggering a shortcut.  
 ⦁ The functionality can be triggered via the <strong>"Ctrl+Alt+D"</strong> shortcut  
