@@ -9,11 +9,8 @@ An add-on for the Studying tool "Anki". This allows the user to open a Searchabl
 
 
 <img src="https://github.com/user-attachments/assets/b2aa12ae-cc79-4291-9e26-1aeb435a6e34" height="200" />
-<img src="https://github.com/user-attachments/assets/03dde212-936d-47fb-a712-4b5f99f0eebe" height="200" />
+<img src="https://github.com/user-attachments/assets/93b0d0c5-e3d3-4bde-9d20-caabbf140e61" height="200" />
 
-<img src="https://github.com/user-attachments/assets/b2aa12ae-cc79-4291-9e26-1aeb435a6e34" height="200" />
-<img src="https://github.com/user-attachments/assets/03dde212-936d-47fb-a712-4b5f99f0eebe" height="200" />
-<img src="https://github.com/user-attachments/assets/8b6c0e0d-5c66-46ff-929a-35545b0512ed" height="200" />
 
 ## Changing Shortcut
 ⦁ By default, "Ctrl+Alt+D" has been assigned as the shortcut to trigger the Deck List popup from both the Decks Menu and the Browser Menu  
