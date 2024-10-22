@@ -7,8 +7,9 @@ An add-on for the Studying tool "Anki". This allows the user to open a Searchabl
 ⦁ Each instance of the Deck List remains independent so as to allow you to have different deck names handy.   
 ⦁ <strong>Minimizing</strong> the Window simply positions it in bottom Left of the Screen, this way multiple deck list searches can be stacked and stored for later.  
 
+
 <img src="https://github.com/user-attachments/assets/b2aa12ae-cc79-4291-9e26-1aeb435a6e34" height="200" />
-<img src="https://github.com/user-attachments/assets/8b6c0e0d-5c66-46ff-929a-35545b0512ed" height="200" />
+<img src="https://github.com/user-attachments/assets/03dde212-936d-47fb-a712-4b5f99f0eebe" height="200" />
 
 
 ## Changing Shortcut
